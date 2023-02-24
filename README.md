@@ -1,6 +1,13 @@
-### Hi there 👋
+### ¡¡Hola!👋... Bienvenido a mi Perfil..! 
+#
+* Estudiante de Ingenieria de Sistemas en la [Universidad Popular del Cesar](https://www.unicesar.edu.co/index.php/es/)
+* Estudiante del Tecnologo en Desarrollo de Software (ADSO)
+* Estudiante de una especializacion en FrontEnd en [Syntactic](https://masterclass.syntactic.digital/)
+* Estudiante de una especiaizacion en Backend en [ONE – Oracle Next Education](https://www.oracle.com/co/education/oracle-next-education/)
+#
 
-<!--
+
+
 **Guerrahgv/Guerrahgv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
